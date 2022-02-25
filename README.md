@@ -1,7 +1,7 @@
 # Water_level-Pressure-sensor
 
 # Introduction
-This is a joint system that monitors and reports on the water level of a liquid tank, while also using a pressure pad as a trigger for various related actions varying on the different uses for the sensor as a whole. 
+This is a joint system that monitors and reports on the water level of a liquid tank, while also using a pressure pad as a trigger for various related actions varying on the different uses for the sensor. 
 
 # Usage instruction:
 
